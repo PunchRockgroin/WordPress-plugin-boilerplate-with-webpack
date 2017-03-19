@@ -1,22 +1,4 @@
-=== Plugin Name ===
-
-Contributors: Vlado Bosnjak
-Tags: boilerplate, template, wordpress plugin
-
-Requires at least: 4.0.1
-
-Tested up to: 3.4
-
-Stable tag: 4.3
-
-License: GPLv2 or later
-
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-WordPress plugin boilerplate with webpack build script
-
-
-== Description ==
+## Descrption
 
 This is fork of WordPress plugin boilerpate combined with Roots Sage webpack build script.
 Plugin includes modified files from original [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) version but with stripped comments which should save you time of renaming all classes and filenames and othere included information that is just waste of time.

@@ -81,7 +81,7 @@ If you are not using [Bedrock](https://roots.io/bedrock/), update `publicPath` t
 
 ```json
 ...
-  "publicPath": "/wp-content/themes/sage"
+  "publicPath": "/wp-plugins/plugin-name/"
 ...
 ```
 

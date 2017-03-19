@@ -1,6 +1,6 @@
 ## Descrption
 
-This is fork of WordPress plugin boilerpate combined with Roots Sage webpack build script.
+This is fork of WordPress plugin boilerpate combined with [Roots Sage](https://github.com/roots/sage) webpack build script.
 Plugin includes modified files from original [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) version but with stripped comments which should save you time of renaming all classes and filenames and othere included information that is just waste of time.
 
 [Plugin Boilerplate generator](https://wppb.me/) kind of saves time but you still end up having to rename bunch of things before you can get started to actually do some work you would like to.
